@@ -7,7 +7,8 @@
 # cybersecurity-course-labs
 Hands-on labs, notes, and projects from my Cybersecurity Analyst Diploma at Willis College
 
-
+📢 View my Cybersecurity Labs as a Website:  
+➡️ [Cybersecurity Labs Site](https://atifkaloodi1.github.io/cybersecurity-course-labs/)
 
 ## 📚 Cybersecurity Course Labs
 
