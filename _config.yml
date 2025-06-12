@@ -1,0 +1,13 @@
+title: "Cybersecurity Labs"
+description: "Hands-on labs and projects from my cybersecurity learning journey"
+theme: jekyll-theme-cayman
+show_downloads: false
+
+cybersecurity-course-labs/
+│
+├── README.md
+├── _config.yml
+├── notes/
+├── labs/
+├── projects/
+└── scripts/
