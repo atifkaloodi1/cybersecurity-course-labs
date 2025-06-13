@@ -1,9 +1,3 @@
----
-layout: home
-title: Welcome
-nav_order: 1
----
-
 # 🔐 Cybersecurity Course Labs
 
 Welcome to my hands-on cybersecurity portfolio. Explore:
