@@ -1,4 +1,21 @@
 ---
+layout: home
+title: Welcome
+nav_order: 1
+---
+
+# 🔐 Cybersecurity Course Labs
+
+Welcome to my hands-on cybersecurity portfolio. Explore:
+
+- 📚 Study notes
+- 🧪 Labs & walkthroughs
+- 🏗️ SOC Home Lab architecture
+- ⚙️ Scripts and automation
+
+
+
+---
 layout: default
 title: Home
 ---
