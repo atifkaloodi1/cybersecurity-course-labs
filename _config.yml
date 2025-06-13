@@ -1,3 +1,17 @@
+title: Cybersecurity Labs
+description: >-
+  Hands-on labs, notes, and SOC projects from my cybersecurity learning journey.
+theme: "just-the-docs"
+
+url: "https://atifkaloodi1.github.io"
+baseurl: "/cybersecurity-course-labs"
+
+search_enabled: true
+
+just_the_docs:
+  color_scheme: dark
+
+
 title: "Cybersecurity Labs"
 description: "Hands-on labs and projects from my cybersecurity learning journey"
 theme: jekyll-theme-cayman
