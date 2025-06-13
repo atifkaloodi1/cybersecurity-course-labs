@@ -12,11 +12,6 @@ just_the_docs:
   color_scheme: dark
 
 
-title: "Cybersecurity Labs"
-description: "Hands-on labs and projects from my cybersecurity learning journey"
-theme: jekyll-theme-cayman
-show_downloads: false
-
 cybersecurity-course-labs/
 │
 ├── README.md
