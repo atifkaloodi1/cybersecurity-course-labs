@@ -29,9 +29,4 @@ Hands-on labs, notes, and projects from my Cybersecurity Analyst Diploma at Will
 📁 vms-setup/   – Virtual machine setup guides (Ubuntu Server, Kali Linux, Windows 10/11)
 
 
-- 📁 `notes/` – Course notes
-- 📁 `labs/` – Hands-on labs (Nmap, firewall, etc.)
-- 📁 `projects/` – SOC Home Lab, Resume Projects
-- 📁 `scripts/` – Bash & PowerShell automation
-
 I update labs weekly!
