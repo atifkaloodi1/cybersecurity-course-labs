@@ -3,6 +3,7 @@
 ![GitHub](https://img.shields.io/github/license/atifkaloodi1/cybersecurity-course-labs)
 ![GitHub issues](https://img.shields.io/github/issues/atifkaloodi1/cybersecurity-course-labs)
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/atifkaloodi12.png" alt="Your Image Badge" />
 
 
 # cybersecurity-course-labs
