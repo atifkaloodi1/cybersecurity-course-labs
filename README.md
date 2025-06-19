@@ -5,6 +5,7 @@
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/atifkaloodi12.png" alt="Your Image Badge" />
 
+https://tryhackme.com/atifkaloodi12/badges/terminaled
 
 # cybersecurity-course-labs
 Hands-on labs, notes, and projects.
